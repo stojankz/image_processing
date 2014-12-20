@@ -1,1 +1,1 @@
-image processing repository for image programs.
+image processing repository for Processing image programs.
