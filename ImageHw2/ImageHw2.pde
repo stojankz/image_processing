@@ -3,7 +3,7 @@
 
 void setup() {
   int start = millis();
-  PImage orig = loadImage("flowers.jpg");
+  PImage orig = loadImage("foggyriver.jpg");
 
   //Wanted all versions of the picture to show up side by side
   //so I multiplied by the number of times the picture will show up
